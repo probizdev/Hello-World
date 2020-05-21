@@ -1,1 +1,2 @@
-# Helloe-World
+# Hello-World
+Github guides
